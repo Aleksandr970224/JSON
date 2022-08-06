@@ -1,0 +1,85 @@
+{
+	"basicTheory": "whatIsTesting,bugReport,documentation,typesiMethodsDirectionsTesting",
+	"SDLC",
+	"STLC"
+},
+{
+	"client-serverArchitecture"
+},
+{
+	"httpMethodsRequestsToTheServer"
+},
+{
+	 "codesResponesHttpServer"
+},
+{
+	"structureHttpRequestsAndRespons"
+},
+{
+	"whatIsJsonXml": "theirStructure"
+},
+{
+	"testingApiByPostman": "JsAutotestsApi"
+},
+
+{
+	"removingAndReadingLogsFromAnExternalServer"
+},
+{
+	"sniffHttpWebTrafficByCharlesAndFiddler"
+},
+{
+	"DevToolsWebBrowser": "googleChrome","fireFox"
+},
+{
+	"vpn": "howItWorks","whyItIsNeeded","howToUseIt","toolOption"
+},
+
+{
+	"mobileTesting"
+},
+{
+	"specificity": "ios","android","guideline"
+},
+{
+	"builgingIosAppsOnXcode"
+},
+{
+	"buildingAndroidAppsOnAndroidStudio"
+},
+{
+	"adb": "managementAndroidDivece"
+},
+{
+	"settingUpAProxyServerAndVpnOnIosAndAndroid"
+},
+{
+	"interceptionOfMobileTrafficByCharlesAndFidlerOnIosAsnAndroid"
+},
+{
+	"linuxCommandLine": "copying","creating","viewing","movingFilesOnServerWithoutAGraphicalInterface"
+},
+{
+	"basicOfBashScripting": "automationOfRoutineTasksOnTheServer"
+},
+{
+	"accessToRemoteServers"
+},
+{
+	"BasicsSql": "create","delete","drop","insertInto","select","from","where","join"
+},
+{
+	"postgresDatabase": "installation","configuration","use"
+},
+{
+	"redisNon-relationDatabase": "installation","configuration","use"
+},
+{
+	"loadTestingInJmeter"
+},
+{
+	"developmentMethodologyScrum"
+},
+{
+	"python": ""leraningTheBasic","creatingAServerApplicationClient"
+}
